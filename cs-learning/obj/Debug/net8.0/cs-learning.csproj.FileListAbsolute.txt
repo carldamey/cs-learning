@@ -1,0 +1,15 @@
+C:\Users\carl\source\repos\cs-learning\cs-learning\bin\Debug\net8.0\cs-learning.exe
+C:\Users\carl\source\repos\cs-learning\cs-learning\bin\Debug\net8.0\cs-learning.deps.json
+C:\Users\carl\source\repos\cs-learning\cs-learning\bin\Debug\net8.0\cs-learning.runtimeconfig.json
+C:\Users\carl\source\repos\cs-learning\cs-learning\bin\Debug\net8.0\cs-learning.dll
+C:\Users\carl\source\repos\cs-learning\cs-learning\bin\Debug\net8.0\cs-learning.pdb
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\cs-learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\cs-learning.AssemblyInfoInputs.cache
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\cs-learning.AssemblyInfo.cs
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\cs-learning.csproj.CoreCompileInputs.cache
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\cs-learning.sourcelink.json
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\cs-learning.dll
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\refint\cs-learning.dll
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\cs-learning.pdb
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\cs-learning.genruntimeconfig.cache
+C:\Users\carl\source\repos\cs-learning\cs-learning\obj\Debug\net8.0\ref\cs-learning.dll
